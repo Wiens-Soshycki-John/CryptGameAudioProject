@@ -2,5 +2,6 @@ This repo has two unity games, one which I have modified and an original.  The m
 
 SETUP
 My Version of the Game is reasonably under in the MyVersion folder whereas the original version is expectedly in the OriginalVersion folder.
-As for as I am aware unity only requires you to have the .exe however as someone who is rather inexperienced with unity as this is the first build I have ever created I may be wrong.  If the individual .exe files are not enough clone the whole repo.
+As for as I am aware unity only requires you to have the .exe however as someone who is rather inexperienced with unity as this is the first build
+I have ever created I may be wrong.  If the individual .exe files are not enough clone the whole repo.
 
